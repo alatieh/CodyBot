@@ -1,2 +1,4 @@
 # CodyBot
-Python/Discord.py api
+
+Experimenting w discord.py with a fun little bot 
+
