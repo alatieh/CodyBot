@@ -1,4 +1,6 @@
 # CodyBot
 
-Experimenting w discord.py with a fun little bot 
+(placeholder for playlistbot)
+
+Experimenting w discord.py
 
